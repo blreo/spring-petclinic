@@ -63,6 +63,10 @@ public class Owner extends Person {
 	private Set<Pet> pets;
 	
 	private int age;
+	
+	private String email;
+	
+	
 	public int getAge() {
 		return age;
 	}
