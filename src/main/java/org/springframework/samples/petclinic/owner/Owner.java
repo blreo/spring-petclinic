@@ -64,7 +64,7 @@ public class Owner extends Person {
 	
 	private int age;
 	
-	private String email2;
+	private String email3;
 	
 	
 	public int getAge() {
